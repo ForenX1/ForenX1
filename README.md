@@ -1,4 +1,4 @@
-[![MasterHead](file:///D:/%C4%B0ndirilinler/FOREN-27-11-2025.png)
+[![MasterHead](https://cdnuploads.aa.com.tr/uploads/Contents/2022/06/28/thumbs_b_c_1a6e7028ec16b53e735d4e264f5d1f2c.jpg)
 <h1 align="center">Hi 👋, I'm ForenX1</h1>
 <h3 align="center">I am a software developer and I work in cybersecurity.</h3>
 
